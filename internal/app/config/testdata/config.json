@@ -1,0 +1,8 @@
+{
+   "rss":[
+      "https"
+   ],
+   "request_period": 1,
+   "db_url": "host",
+   "bind_address": ":80"
+}

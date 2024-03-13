@@ -1,0 +1,10 @@
+{
+   "rss":[
+      "https://habr.com/ru/rss/hub/go/all/?fl=ru",
+      "https://habr.com/ru/rss/best/daily/?fl=ru",
+      "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
+   ],
+   "request_period": 5,
+   "db_url": "host=localhost dbname=news user=postgres  port=5432 sslmode=disable",
+   "bind_address": ":8383"
+}
